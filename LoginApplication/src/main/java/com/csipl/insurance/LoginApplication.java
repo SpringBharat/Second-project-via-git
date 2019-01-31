@@ -16,6 +16,7 @@ public class LoginApplication  implements ApplicationRunner  {
 	@Override
 	public void run(ApplicationArguments args) throws Exception {
 	System.out.println("LoginApplication.run()");
+	System.out.println("LoginApplication.run()");
 		
 	}
 
